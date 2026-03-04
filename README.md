@@ -28,12 +28,12 @@ The GUI is built using Tkinter and threading is used for handling simultaneous n
 tic-tac-toe-socket-game
 │
 ├── src
-│   ├── player1.py
-│   ├── player2.py
-│   └── gameboard.py
+│ ├── player1.py
+│ ├── player2.py
+│ └── gameboard.py
 │
 ├── docs
-│   └── project_report.pdf
+│ └── project_report.pdf
 │
 ├── screenshots
 │
